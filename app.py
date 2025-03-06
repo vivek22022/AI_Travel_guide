@@ -18,7 +18,7 @@ st.markdown(
     """
     <style>
         .banner-container { text-align: center; margin-bottom: 20px; }
-        .banner-img { width: 100%; max-height: 250px; object-fit: cover; border-radius: 15px; }
+        .banner-img { width: 100%; max-height: 325px; object-fit: cover; border-radius: 15px; }
     </style>
     <div class="banner-container">
         <img src="https://www.traveldailymedia.com/assets/2019/02/paris-travel-planning.jpg" class="banner-img">
