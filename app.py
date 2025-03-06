@@ -21,7 +21,7 @@ st.markdown(
         .banner-img { width: 100%; max-height: 250px; object-fit: cover; border-radius: 15px; }
     </style>
     <div class="banner-container">
-        <img src="C:/Users/ratho/OneDrive/Desktop/AI_travel/img.jpg" class="banner-img">
+        <img src="https://www.traveldailymedia.com/assets/2019/02/paris-travel-planning.jpg" class="banner-img">
     </div>
     """,
     unsafe_allow_html=True
